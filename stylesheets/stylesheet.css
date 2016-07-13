@@ -12,7 +12,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 600p;
   margin: 0 auto;
 }
 
@@ -232,7 +232,7 @@ hr {
 
 .btn-github .gl {
   opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
+  background: url("../images/gitlab.png") 0 0 no-repeat;
 }
 
 .btn .tw {
@@ -245,7 +245,7 @@ hr {
 
 .btn-github .tw {
   opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
+  background: url("../images/Twitter_logo_blue.png") 0 0 no-repeat;
 }
 /* Links
    a, a:hover, a:visited
