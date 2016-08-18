@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/sam4ritan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sam4ritan.github.io
+  * I am sam4ritan (https://keybase.io/sam4ritan) on keybase.
+  * I have a public key with fingerprint 52C6 A956 26C2 D1B9 F9F1  73BD CDC1 E458 37B4 137D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010163ee89e79a693d13b6ac58bb53c9c20ab0b7dd08e9b0870d334569203819bcef0a",
+            "fingerprint": "52c6a95626c2d1b9f9f173bdcdc1e45837b4137d",
+            "host": "keybase.io",
+            "key_id": "cdc1e45837b4137d",
+            "kid": "010163ee89e79a693d13b6ac58bb53c9c20ab0b7dd08e9b0870d334569203819bcef0a",
+            "uid": "b604a27b93ee3639c6e2ef9e747baa19",
+            "username": "sam4ritan"
+        },
+        "service": {
+            "hostname": "sam4ritan.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471512448,
+    "expire_in": 157680000,
+    "prev": "e656eed2ec8f1bdeb9016ed22b5eb5a6ccf36eb6e06425e54c31ffd4ad2298a5",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJbSBRRGMfHSk2hKCqjC5RTkdVqc2bmnJlZi4oigi4GdsFI13POnFkH
+dXebnbU1E4sS6qUW68FCFKILQQ9CSRe739AUjNDA6AKFRbAlGRKBWGesXqLHzsvh
+fPy/3/n/P76Hk8YLmSlFbzd8WL4qeDyl615LTNjZVnegRiRhs1r014jlbOxiFSaL
+uoFy2xT9ogQkgBTGdINpBkaGYgKFIEyhTghUqEFlCROJaKYp6cwgkq5JpqKoEBmy
+pOjAIJRZEhZ9omWHgsyJOHbI5VgoU4QNiGREZRMQwzIsoCnEpCYFTIW6ohEVKJrJ
+G8vCUa+DmyM4yvLsMK/xR2DM3j/0/9l3bAxHkKRiWSMGRypIMShiMrM4W9UIxsDw
+hFHmhHAl4+oorlQd28UhsdYn8nKVTZk3WS/K35K8oO2WxcivXBEn7IZpuIILylw3
+EvV7ALc64nXsZSTwmxUgdsjk8+QdVcyJ2uGQ6AdcSV3bgwNVAxDIqqr7RBaP2A4L
+2J4CakiX+PH+YVUcyRBEjJkyo7oFiMmIwYfG3zKBjECMKLUUxAhiElJlyKBKFWBZ
+poq5xNAxFL10e0Jh0Q+5TRz0ctnBEHZjDhNr79/dPUFIyRTSUsd5eyZkZkz5s31d
+yYnCgU9DhcMl6wpuZ1yrP3T9SvxExptl5xMZs5PPb8sVu3Lzk8WnTguvP/+o7J57
+NPG44WU6OtKwvq7wTt/GHpSYnNo+es7NbV+QVzA0a2Jpskm49Sx18Nzg/Kdr87Ji
+cDJoKLl5cdXrKTOrOz803rp8uJnWx1cU3MipTBvIbSjF+yKgvzOxpTwW/zY6Oi79
+3bGUjrMr5z3pSQ5vePW5d0lJY+nJthZf0cCh6RUdrS2bzwQKB3rmROvim7YtXrrI
+mVHQFsjf1bQV948caV6o5QiX9l/vaS2a1ry9eMKlhTuyRg4uWHIhO/vBxy9f14hT
+Ba03eLXWl+iDq/d2NH5Ke9Fd+H3kPXn0EwO0RJs=
+=M9Bz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sam4ritan
+
+==================================================================
